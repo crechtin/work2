@@ -27,7 +27,7 @@ pathtools==0.1.2
 Pillow==6.2.1
 protobuf==3.11.1
 pyrsistent==0.15.6
-python-dateutil==2.8.1
+python-dateutil==2.8.0
 pytz==2019.3
 PyYAML==5.2
 requests==2.22.0
