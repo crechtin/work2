@@ -1,7 +1,5 @@
 alabaster==0.7.12
 altair==4.0.0
-anaconda-navigator==1.9.7
-anaconda-project==0.8.2
 appnope==0.1.0
 appscript==1.0.1
 argh==0.26.2
